@@ -3,16 +3,11 @@ slug: /product-description/germany/products-and-services/caas/products/tax-autho
 title: Finanzamtmeldung
 ---
 
-# Finanzamtmeldung (in Entwicklung)
+# Finanzamtmeldungen
 
 **Produktnummer:** 4445-040030
 
-<div class="alert alert--warning" role="alert">Die Regelung zur An- und Abmeldung von Kassen ist gegenwärtig ausgesetzt, da vom Gesetzgeber und den Ländern noch keine geeignete Vorgehensweise definiert werden konnte. Nach aktuellem Wissensstand werden Meldungen bereits in Betrieb befindlicher Kassen auch rückwirkend nötig sein. 
-<br />
-Unsere Systeme zeichnen Aktivierungen und Deaktivierungen von Queues bereits auf; wir sind daher bestens darauf vorbereitet, die Meldungen durchzuführen, sobald ein Prozedere definiert wurde.<br /></div><br />
-
-
-Mitteilung an das zuständige Finanzamt von Inbetriebnahme bzw. Außerbetriebnahme von elektronischen Aufzeichnungssystemen, sobald vom Finanzamt gefordert
+Mit **fiskaltrust.Finanzamtmeldungen** werden alle meldepflichtigen Vorgänge, wie Inbetriebnahme, Außerbetriebnahme oder Änderungen bisher gemeldeter Daten (z.B. Wechsel der TSE), automatisch und gesetzeskonform über die fiskaltrust.Cloud gemäß § 146a Abs. 4 AO an das Finanzamt übermittelt.
 
 ## Features
 
@@ -21,8 +16,8 @@ Mitteilung an das zuständige Finanzamt von Inbetriebnahme bzw. Außerbetriebnah
 
 ## Verkaufseinheit
 
-Verkauf pro Kasse pro Meldung
+Verkauf pro Standort pro Jahr
 
 ## Verfügbarkeit
 
-Einige Wochen ab Verfügbarkeit geeigneter Systeme (Schnittstellen) zur Automatisierung der Meldungen an das jeweils zuständige Finanzamt.
+1.Januar 2025
